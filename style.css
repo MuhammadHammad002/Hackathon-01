@@ -1,0 +1,21 @@
+.nav-item>img{
+    margin-top:50px ;
+    margin-left: 20px;
+}
+.header-02{
+    height: 100px !important;
+}
+.section{
+    background-color: #FFB30E !important;
+} 
+.bg-primary{
+background-color: #FFB30E !important;
+} */
+.py-5{
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+    
+}
+.f2-1 .text-danger{
+    font-size: small !important;
+}
